@@ -1,0 +1,21 @@
+DSCI 478 Capstone Capstone Group Project in Data Science
+Final Project Preliminary Proposal
+
+Instructor: Emily J. King
+Due: March 23 at 3:00 p.m.
+
+Group members: Logan Perkins, Kilbourne Charrier
+
+Tentative project title: League of Legends MSI 2022 Tournament Prediction
+
+Data set(s) to be worked with: 
+Previous MSI tournament standings, division playoff standings, team and player statistics, champion pick/ban/win rates.
+All obtained from https://oracleselixir.com/.
+
+Proposed methods to be used: 
+PCA to determine usefulness of predictors in predicting tournament standings across the datasets, SVD to determine if PCA is even necessary.
+Supervised machine learning models to conduct prediction on standings as well as classification on specific variables. 
+For example, whether a team wins given their opposing team or whether a player will take the first tower in a game.
+
+Why did you choose this project: 
+
